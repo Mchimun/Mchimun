@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudiante. Desarrollo Aplicaciones Web IES FERNANDO III MARTOS</p>
+<p align="left">📚 Estudiante. Desarrollo Aplicaciones Web</p>
 
 ###
 
