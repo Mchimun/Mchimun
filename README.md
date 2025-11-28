@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Manuel y soy estudiante del ciclo superior de Desarrollo de Aplicaciones Web</p>
+<p align="left">Mi nombre es Manuel y soy estudiante del ciclo superior de Desarrollo de Aplicaciones Web en el IES Fernando III de Martos</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudiante. Desarrollo Aplicaciones Web</p>
+<p align="left">📚 Estudiante. Desarrollo Aplicaciones Web IES FERNANDO III MARTOS</p>
 
 ###
 
